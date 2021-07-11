@@ -34,6 +34,8 @@ https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
 
 The procedure is outlined in the LDA.ipynb with links to the respective chapters.
 
+The results are now also presented in a webdashboard: https://lda-topic-analysis.herokuapp.com/
+
 
 ## ToDo
 
@@ -42,7 +44,7 @@ The procedure is outlined in the LDA.ipynb with links to the respective chapters
 - [x] Find model parameters and number of topics
 - [x] Visualization
 - [ ] Build Knowledge graphs
-- [ ] Build Dash app
+- [x] Build Dash app (https://lda-topic-analysis.herokuapp.com/)
 - [ ] Train network
 
 
