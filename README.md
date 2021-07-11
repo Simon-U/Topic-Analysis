@@ -12,7 +12,7 @@ Latent Dirichlet Allocation (LDA) is used to find the relevant topics, and the r
 
 The relevant files is LDA.ipynb notebook and the corresponding modules. 
 
-The results can also be viewed now on a webdashboard with Dash and Plotly:
+The results can also be viewed now on a webdashboard with Dash and Plotly: <br>
 https://lda-topic-analysis.herokuapp.com/
 
 
