@@ -12,6 +12,9 @@ Latent Dirichlet Allocation (LDA) is used to find the relevant topics, and the r
 
 The relevant files is LDA.ipynb notebook and the corresponding modules. 
 
+The results can also be viewed now on a webdashboard with Dash and Plotly:
+https://lda-topic-analysis.herokuapp.com/
+
 
 ## Prerequisites
 
@@ -33,8 +36,6 @@ https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
 ## Steps
 
 The procedure is outlined in the LDA.ipynb with links to the respective chapters.
-
-The results are now also presented in a webdashboard: https://lda-topic-analysis.herokuapp.com/
 
 
 ## ToDo
